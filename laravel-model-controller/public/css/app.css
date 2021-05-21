@@ -1,0 +1,14 @@
+body {
+  background-color: darkorange;
+  width: 80%;
+  margin: auto;
+}
+
+body h1 {
+  color: red;
+}
+
+body a {
+  text-decoration: none;
+}
+
