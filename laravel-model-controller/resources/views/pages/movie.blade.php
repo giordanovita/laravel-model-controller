@@ -30,6 +30,10 @@
         <p>
             {{$movie -> date}}
         </p>
+        <p>
+            {{$movie -> vote}}
+        </p>
+
 
         <a href="{{route('home')}}">
             Torna alla pagina precedente
